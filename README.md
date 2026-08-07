@@ -2,7 +2,7 @@
 
 # Projetinho: Rolê sem Treta (Divisão Justa de Conta)
 
-> **Disciplina:** Algoritmos e Programação — 1º Período  
+> **Disciplina:** Algoritmos e Programação - 1º Período  
 > **Linguagem:** 
 
 ---
